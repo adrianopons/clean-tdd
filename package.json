@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/adrianopons/clean-tdd/issues"
   },
-  "homepage": "https://github.com/adrianopons/clean-tdd#readme"
+  "homepage": "https://github.com/adrianopons/clean-tdd#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.4.4"
+  }
 }
